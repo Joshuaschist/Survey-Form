@@ -1,2 +1,2 @@
 # Survey-Form
-A Psychographic survey on fashion
+A quick personal Psychographic survey form on fashion for you.

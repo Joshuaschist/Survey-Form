@@ -1,0 +1,16 @@
+body {
+	background-image: url(backgroundimage.jpg);
+    background-size: contain;
+}
+
+h1 {
+  font-family: New Times Roman;
+  font-size: 5em;
+  color: red;
+  text-align: center;
+}
+
+p {
+	font-family: fantasy;
+	font-size: 20px;
+}

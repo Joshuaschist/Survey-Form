@@ -1,0 +1,1 @@
+alert("Hello! Welcome to this Psychographic fashion survey!")
